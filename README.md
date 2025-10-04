@@ -46,8 +46,11 @@ Phishing attacks are a major cybersecurity threat. Using Llama 2 via LM Studio, 
 ## **Installation**
 
 Install Python 3.10+ if not already installed: https://www.python.org/downloads/
+
 Install LM Studio: https://lmstudio.ai
+
 Download and load Llama 2 model in LM Studio
+
 Install required Python packages:
 
 ```bash
