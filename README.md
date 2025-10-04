@@ -75,11 +75,11 @@ python classify_phishing_emails.py
 
 The script will generate a new CSV file emails_with_verdict.csv with the following columns:
 
-text: Original email text
+`text`: Original email text
 
-Llama verdict: 1 for phishing, 0 for not phishing
+`Llama verdict`: `1` for phishing, `0` for not phishing
 
-Llama justification: Brief explanation from the model
+`Llama justification`: Brief explanation from the model
 
 ## **License**
 
