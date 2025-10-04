@@ -39,7 +39,13 @@ Phishing attacks are a major cybersecurity threat. Using Llama 2 via LM Studio, 
 
 - Python 3.10 or higher  
 - LM Studio installed and running locally  
-- Llama 2 model downloaded in LM Studio (e.g., `llama-2-7b-chat`)  
+- Llama 2 model downloaded in LM Studio (e.g., `llama-2-7b-chat`)
+- 
+Install required Python packages:
+
+```bash
+pip install pandas requests jupyter
+```
 
 ---
 
@@ -50,12 +56,6 @@ Install Python 3.10+ if not already installed: https://www.python.org/downloads/
 Install LM Studio: https://lmstudio.ai
 
 Download and load Llama 2 model in LM Studio
-
-Install required Python packages:
-
-```bash
-pip install pandas requests jupyter
-```
 
 Clone this repository:
 
