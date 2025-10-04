@@ -68,7 +68,7 @@ cd phishing-classifier
 
 Start LM Studio and ensure your model is running.
 
-Prepare a CSV file emails.csv with a column named text containing the emails to classify.
+Prepare a CSV file emails.csv (https://github.com/sadat1971/Phishing_Email/blob/main/Data/curated_set.csv) with a column named text containing the emails to classify.
 
 Open Jupyter Notebook or run the Python script directly:
 
