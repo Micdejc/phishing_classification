@@ -52,12 +52,14 @@ Install required Python packages:
 
 ```bash
 pip install pandas requests jupyter
+```
 
 Clone this repository:
 
 ```bash
 git clone https://github.com/your-username/phishing-classifier.git
 cd phishing-classifier
+```
 
 ## **Usage**
 
@@ -69,7 +71,7 @@ Open Jupyter Notebook or run the Python script directly:
 
 ```bash
 python classify_phishing_emails.py
-
+```
 
 The script will generate a new CSV file emails_with_verdict.csv with the following columns:
 
