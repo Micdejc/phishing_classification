@@ -61,7 +61,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/Micdejc/phishing_classification.git
-cd phishing-classifier
+cd phishing_classification
 ```
 
 ## **Usage**
