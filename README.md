@@ -60,7 +60,7 @@ Download and load Llama 2 model in LM Studio
 Clone this repository:
 
 ```bash
-git clone [https://github.com/your-username/phishing-classifier.git](https://github.com/Micdejc/phishing_classification.git)
+git clone https://github.com/Micdejc/phishing_classification.git
 cd phishing-classifier
 ```
 
@@ -68,7 +68,7 @@ cd phishing-classifier
 
 Start LM Studio and ensure your model is running.
 
-A CSV file named [emails.csv](https://github.com/Micdejc/phishing_classification/blob/main/emails.csv), which sourced from (https://github.com/sadat1971/Phishing_Email/blob/main/Data/curated_set.csv), with a column named text containing 100 emails to classify.
+For this project, a CSV file named [emails.csv](https://github.com/Micdejc/phishing_classification/blob/main/emails.csv) was prepared, sourced from [source](https://github.com/sadat1971/Phishing_Email/blob/main/Data/curated_set.csv). It includes a text column containing 100 emails for classification.
 
 Open Jupyter Notebook or run the Python script directly:
 
