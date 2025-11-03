@@ -68,7 +68,7 @@ cd phishing_classification
 
 Start LM Studio and ensure your model is running.
 
-For this project, a CSV file named [emails.csv](https://github.com/Micdejc/phishing_classification/blob/main/emails.csv) was prepared, sourced from [source](https://github.com/sadat1971/Phishing_Email/blob/main/Data/curated_set.csv). It includes a text column containing 100 emails for classification.
+For this project, a CSV file named [emails.csv](https://github.com/Micdejc/phishing_classification/blob/main/emails.csv) was prepared, sourced from [source](https://github.com/sadat1971/Phishing_Email/blob/main/Data/curated_set.csv). It includes a text column containing 10 emails for classification.
 
 Open Jupyter Notebook or run the Python script directly:
 
