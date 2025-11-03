@@ -51,7 +51,7 @@ pip install pandas requests jupyter
 
 ## **Installation**
 
-Install Python 3.10+ if not already installed: https://www.python.org/downloads/
+Install Python 3.8+ if not already installed: https://www.python.org/downloads/
 
 Install LM Studio: https://lmstudio.ai
 
