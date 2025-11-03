@@ -37,7 +37,7 @@ Phishing attacks are a major cybersecurity threat. Using Llama 2 via LM Studio, 
 
 ## **Requirements**
 
-- Python 3.10 or higher  
+- Python 3.8 or higher  
 - LM Studio installed and running locally  
 - Llama 2 model downloaded in LM Studio (e.g., `llama-2-7b-chat`)
 - 
