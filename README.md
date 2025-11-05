@@ -86,4 +86,4 @@ The script will generate a new CSV file emails_with_verdict.csv with the followi
 
 ## **License**
 
-This project is free licensed. Feel free to use it!
+This project is free licensed. Feel free to use it, but please give proper credit to the author!
