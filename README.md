@@ -88,7 +88,7 @@ The script will generate a new CSV file emails_with_verdict.csv with the followi
 To assess the performance of the system, open Jupyter Notebook or run the Python script directly:
 
 ```bash
-jupyter notebook Confusion_matrix.ipynb
+jupyter notebook Confusion_Matrix.ipynb
 ```
 The script will generate a confusion matrix for the system evaluation.
 
