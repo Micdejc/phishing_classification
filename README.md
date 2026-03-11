@@ -84,6 +84,14 @@ The script will generate a new CSV file emails_with_verdict.csv with the followi
 
 `Llama justification`: Brief explanation from the model
 
+
+To assess the performance of the system, open Jupyter Notebook or run the Python script directly:
+
+```bash
+jupyter notebook Confusion_matrix.ipynb
+```
+The script will generate a confusion matrix for the system evaluation.
+
 ## **License**
 
 This project is free licensed. Feel free to use it, but please give proper credit to the author!
